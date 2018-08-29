@@ -1,2 +1,2 @@
 # Hello-world
-the beggining of succes 
+the beggining of success 
